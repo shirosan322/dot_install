@@ -1,0 +1,4 @@
+etc/vagrant/MyCentOSVM/.vagrant/*
+etc/vagrant/MyCentOS2/.vagrant/*
+etc/vagrant/myBox/.vagrant/*
+server/MyVagrant/mycentos/.vagrant/*
